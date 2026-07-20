@@ -3,5 +3,5 @@
 ### By Vishnu Murthy
 
 
-### *Bold*
+### **Bold**
 ### _Italic_
